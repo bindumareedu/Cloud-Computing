@@ -1,0 +1,26 @@
+Dec 09, 2019 10:32:05 PM MasterNode initLogger
+CONFIG: Logger configuration done
+Dec 09, 2019 10:32:05 PM MasterNode createOutputDirectoriesInKVStore
+INFO: Calling reducer function with command: [gcloud, compute, ssh, kv-server, ;]
+Dec 10, 2019 3:16:04 PM MasterNode initLogger
+CONFIG: Logger configuration done
+Dec 10, 2019 3:16:05 PM MasterNode main
+INFO: Arguments checked
+Dec 10, 2019 3:16:05 PM MasterNode main
+INFO: Generating output directories for mapper
+Dec 10, 2019 3:16:05 PM MasterNode createOutputDirectoriesForMapper
+INFO: created output directory paths for each mapper
+Dec 10, 2019 3:16:05 PM MasterNode main
+INFO: Initializing master
+Dec 10, 2019 3:16:05 PM MasterNode init_master
+INFO: Initialised master
+Dec 10, 2019 9:07:56 PM MasterNode initLogger
+CONFIG: Logger configuration done
+Dec 10, 2019 9:07:56 PM MasterNode main
+INFO: Arguments checked
+Dec 10, 2019 9:07:56 PM MasterNode main
+INFO: Generating output directories for mapper
+Dec 10, 2019 9:07:56 PM MasterNode main
+INFO: Initializing master
+Dec 10, 2019 9:07:56 PM MasterNode init_master
+INFO: Initialised master

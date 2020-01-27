@@ -1,0 +1,15 @@
+syntax = "proto3";
+option java_package = "com.keyval_grpc.internalFiles";
+service KeyValue{
+    rpc ServerOperation(Request) returns(Response);
+}
+
+message Request {
+    string input=2;
+    string filepath=1;
+    string mainDirectory = 4;
+}
+
+message Response{
+     string output = 3;
+}
